@@ -1,0 +1,47 @@
+.jumbotron {
+background-repeat: no-repeat;
+margin-bottom: 0;
+}
+
+.jumbotron .container h1, p {
+  color: white;
+}
+.container a {
+  background-color: #ee4d31;
+  text-transform: uppercase;
+}
+
+.row {
+  text-align: center;
+  background-color: #46e0b7;
+  padding: 60px 0 60px 0;
+}
+
+.row h2 {
+  color: white;
+  text-align: center;
+}
+.glyphicon {
+    font-size: 50px;
+    color: white;
+}
+
+.news {
+  color: grey;
+  text-align: center;
+}
+.news p {
+  color: grey;
+}
+
+.btn-default{
+  background-color: #178e9e;
+  border-style: none;
+  color: white;
+  font-weight:bold;
+}
+
+#map-container {
+  height: 300px;
+  min-width: 100%;
+}
